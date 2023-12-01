@@ -90,6 +90,7 @@
     "dishType": "dessert",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4398987.jpg&w=596&h=399.32000000000005&c=sc&poi=face&q=85",
     "duration": 30,
-    "creator": "Chef Jennifer"
+    "creator": "Chef Jennifer",
+    "created": "2023-10-10"
   }
 ]
